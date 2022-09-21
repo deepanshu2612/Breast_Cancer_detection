@@ -1,1 +1,1 @@
-# Breast_Cancer_detection
+# Breast_Cancer_SVM
